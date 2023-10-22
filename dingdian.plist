@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://ncrmxc.cj-pension.com.cn/app_update/cjyl/product/ios/cjylcrm.ipa</string>
+                    <string>https://ncrmxc.cj-pension.com.cn/app_update/cjyl/product/ios/cjylcrm.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://ncrmxc.cj-pension.com.cn/app_update/cjyl/product/downloadPic.png</string>
+                    <string>https://ncrmxc.cj-pension.com.cn/app_update/cjyl/product/downloadPic.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://ncrmxc.cj-pension.com.cn/app_update/cjyl/product/Logo_A.png</string>
+                    <string>https://ncrmxc.cj-pension.com.cn/app_update/cjyl/product/Logo_A.png</string>
                 </dict>
             </array>
             <key>metadata</key>
